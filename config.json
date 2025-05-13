@@ -1,0 +1,12 @@
+[
+    "LiveData.SOLAR_V",
+    "LiveData.SOLAR_A",
+    "LiveData.SOLAR_W",
+    "LiveData.BATT_V",
+    "LiveData.BATT_A",
+    "LiveData.BATT_W",
+    "LiveData.DEVICE_TEMP",
+    "StatsData.GEN_DAY",
+    "StatsData.GEN_TOT",
+    "Wifi_RSSI"
+  ]  
